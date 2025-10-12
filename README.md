@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF88&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+Louren%C3%A7o+Faria;AI-Powered+Full-Stack+Developer;Building+the+Future+with+AI;Code+%26+Intelligence+%3D+Innovation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF88&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+Guilherme+Louren%C3%A7o;Full-Stack+Developer+%26+Innovator;Building+the+Future+with+Code;Passion+%26+Innovation+%3D+Excellence" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -10,110 +10,55 @@
   <img src="https://github-readme-stats.vercel.app/api?username=LourencoGHJ&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FF88&text_color=ffffff&icon_color=00FF88" alt="GitHub Stats" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LourencoGHJ&theme=dark&no-frame=false&no-bg=true&margin-w=4" alt="trophy" />
-</div>
-
 ---
 
 <div align="center">
-  <h2>🤖 Sobre Mim</h2>
+  <h2>👋 Sobre Mim</h2>
   <p>
-    <em>AI-Powered Full-Stack Developer revolucionando o desenvolvimento com inteligência artificial. 
-    Especializado em React, Node.js, Machine Learning e arquitetura de software inteligente. 
-    Transformando ideias em aplicações futuristas, do front-end ao back-end, com IA integrada. 
-    Código inteligente, mente inovadora - o futuro é agora.</em>
+    <em>Desenvolvedor Full-Stack apaixonado por tecnologia e inovação. 
+    Especializado em criar soluções robustas e escaláveis, sempre buscando 
+    aprender novas tecnologias e enfrentar desafios complexos. 
+    Acredito que o código bem escrito é uma forma de arte, e cada projeto 
+    é uma oportunidade de crescer e impactar positivamente o mundo digital.</em>
   </p>
 </div>
 
 ---
 
 <div align="center">
-  <h2>🚀 Tech Stack</h2>
+  <h2>🛠️ Tech Stack</h2>
   
-  <h3>🤖 AI & Machine Learning</h3>
-  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/-Hugging_Face-FF6B6B?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face" />
-  
-  <h3>⚡ Frontend</h3>
+  <h3>💻 Frontend</h3>
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/-Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js" />
   
-  <h3>🔧 Backend</h3>
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <h3>⚙️ Backend</h3>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/-Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby" />
+  <img src="https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
   
-  <h3>☁️ Cloud & DevOps</h3>
-  <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/-Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
+  <h3>🗄️ Databases & Tools</h3>
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </div>
 
 ---
 
 <div align="center">
-  <h2>📊 AI-Powered Analytics</h2>
+  <h2>📊 Estatísticas de Desenvolvimento</h2>
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LourencoGHJ&theme=dark&hide_border=true&background=0d1117&stroke=00FF88&ring=00FF88&fire=00FF88&currStreakNum=ffffff&currStreakLabel=00FF88&sideNums=ffffff&sideLabels=00FF88&dates=ffffff" alt="GitHub Streak" />
   
-  <h3>🤖 AI Processing Languages</h3>
+  <h3>💻 Linguagens Mais Utilizadas</h3>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LourencoGHJ&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FF88&text_color=ffffff&langs_count=8" alt="Top Languages" />
 </div>
 
 ---
-
-<div align="center">
-  <h2>🤖 AI Neural Network</h2>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LourencoGHJ&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FF88&text_color=ffffff&icon_color=00FF88" alt="Profile Details" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LourencoGHJ&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FF88&text_color=ffffff&icon_color=00FF88" alt="Most Commit Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LourencoGHJ&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FF88&text_color=ffffff&icon_color=00FF88" alt="Repos Per Language" />
-</div>
-
-<div align="center">
-  <h2>🎯 AI Mission</h2>
-  <p>
-    <em>🤖 Revolucionar o desenvolvimento com IA</em><br>
-    <em>🧠 Criar sistemas de inteligência artificial</em><br>
-    <em>🚀 Construir o futuro da tecnologia</em><br>
-    <em>💡 Inovar com soluções nunca vistas</em>
-  </p>
-</div>
-
----
-
-<div align="center">
-  <h2>💭 AI Philosophy</h2>
-  <blockquote>
-    <em>"The future belongs to those who believe in the beauty of their dreams and the power of artificial intelligence."</em>
-  </blockquote>
-</div>
-
-
----
-
-<div align="center">
-  <h2>📚 AI Education & Innovation</h2>
-  
-  <h3>🎓 Academic Foundation</h3>
-  <img src="https://img.shields.io/badge/-ISMAI-1E40AF?style=for-the-badge&logo=university&logoColor=white" alt="ISMAI" />
-  <p><em>Instituto Superior da Maia - Engenharia Informática</em></p>
-  
-  <h3>🤖 AI & Innovation</h3>
-  <img src="https://img.shields.io/badge/-Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning" />
-  <img src="https://img.shields.io/badge/-Neural_Networks-00FF88?style=for-the-badge&logo=brain&logoColor=black" alt="Neural Networks" />
-  <img src="https://img.shields.io/badge/-Innovation-1E40AF?style=for-the-badge&logo=lightbulb&logoColor=white" alt="Innovation" />
-  <p><em>Construindo o futuro com inteligência artificial</em></p>
-</div>
-
----
-
 
 <div align="center">
   <h2>📫 Vamos Conectar!</h2>
@@ -124,19 +69,30 @@
   <a href="https://instagram.com/guilhermee.faria" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
+  <a href="https://github.com/LourencoGHJ" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </div>
 
 ---
 
 <div align="center">
-  <h2>🤝 Let's Build the Future!</h2>
+  <h2>🤝 Vamos Colaborar!</h2>
   <p>
-    <em>Disponível para projetos revolucionários com IA e oportunidades de inovação. 
-    Especializado em React, Node.js, Machine Learning e arquitetura de software inteligente. 
-    Mentalidade futurista, resultados extraordinários. Vamos criar o futuro juntos! 🤖</em>
+    <em>Sempre aberto a novas oportunidades, projetos interessantes e colaborações. 
+    Se você tem uma ideia inovadora ou precisa de um desenvolvedor dedicado, 
+    vamos conversar! Juntos podemos criar algo incrível. 🚀</em>
   </p>
   
   <a href="https://github.com/LourencoGHJ?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/-Ver_Todos_os_Repositórios-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver Todos os Repositórios" />
+    <img src="https://img.shields.io/badge/-Explorar_Repositórios-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explorar Repositórios" />
   </a>
 </div>
+
+---
+
+<div align="center">
+  <p><em>Se algum projeto te interessou, não esqueça de dar uma estrela!</em></p>
+  <p><em>Sugestões e feedback são sempre bem-vindos</em></p>
+</div>
+
