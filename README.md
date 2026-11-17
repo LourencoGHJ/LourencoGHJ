@@ -4,6 +4,10 @@ My studies cover a broad range of computing topics: programming, algorithms, obj
 
 I'm particularly interested in **cybersecurity, Linux, networking and DevSecOps**, while continuing to explore frontend and backend development. I learn by experimenting, building, troubleshooting and reading documentation. I'm still developing my skills and discovering where I want to specialise.
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divisória animada">
+</p>
+
 
 **Programming languages & scripting**
 
@@ -72,8 +76,11 @@ I'm particularly interested in **cybersecurity, Linux, networking and DevSecOps*
 </p>
 
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divisória animada">
+</p>
 
----
+
 
 <p align="left">
   <a href="https://www.linkedin.com/in/guilherme-louren%C3%A7o-b92a98338/" title="LinkedIn">
