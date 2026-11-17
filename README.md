@@ -1,33 +1,45 @@
-Hey, I'm Guilherme! I'm from Portugal and currently studying at **Universidade da Maia**. I'm interested in **cybersecurity, software development and technology**, especially understanding how systems work and how different parts of an application fit together.
+Hey, I'm Guilherme! I'm from Portugal and currently studying at **Universidade da Maia**. I'm interested in technology, software development and cybersecurity — especially understanding how applications, operating systems and networks work together.
 
-I enjoy exploring different areas of development, from **frontend and backend** to **Linux, networking and cybersecurity**. I've worked with languages and technologies such as Python, Java, Ruby, JavaScript, HTML, CSS, React, Bash and PowerShell. I'm also interested in automation, system security, DevSecOps and learning how to build software that is reliable and secure.
+My studies have given me the opportunity to explore several areas of computing, including **programming, databases, algorithms, web development, operating systems, computer networks, information systems, cloud and mobile computing, multimedia and information security**. I enjoy moving between these areas, learning how they connect and finding practical ways to apply what I learn.
 
-I'm still learning and expanding my experience, so I see these technologies as part of an ongoing journey rather than a list of things I've mastered. I like experimenting, solving problems and discovering how things work.
+I'm particularly interested in **cybersecurity, Linux, networking and DevSecOps**, while continuing to develop my skills in both frontend and backend development. I learn by experimenting, building, troubleshooting and reading documentation. I'm still discovering where I want to specialise, and I'm happy to keep exploring.
 
-Outside of tech, I'm focused on my studies, personal development and learning new things. I'm always open to connecting with people who share similar interests, exchanging ideas or simply having a good conversation.
+Outside technology, I'm focused on my studies, personal development and learning new things. I'm always open to connecting with people who share similar interests, exchanging ideas or having a good conversation.
 
+## Technologies & tools
+
+**Programming languages and scripting**
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,ruby,js,bash,powershell&perline=6" alt="Python, Java, Ruby, JavaScript, Bash and PowerShell">
 </p>
 
-**Frontend**
+**Web development — frontend**
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react&perline=4" alt="HTML, CSS, JavaScript and React">
 </p>
 
-**Backend & development**
+**Backend and application development**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,ruby,nodejs&perline=4" alt="Python, Java, Ruby and Node.js">
+  <img src="https://skillicons.dev/icons?i=python,java,ruby&perline=3" alt="Python, Java and Ruby">
 </p>
 
-**Cybersecurity, systems & DevSecOps**
+**Systems, networking and DevSecOps**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,windows,docker,git,github,githubactions,bash,powershell&perline=8" alt="Linux, Windows, Docker, Git, GitHub, GitHub Actions, Bash and PowerShell">
+  <img src="https://skillicons.dev/icons?i=linux,windows,docker,git,github,githubactions&perline=6" alt="Linux, Windows, Docker, Git, GitHub and GitHub Actions">
 </p>
+
+## What I'm exploring
+
+- **Software engineering:** algorithms, data structures, object-oriented programming and agile development.
+- **Data and information systems:** databases, data modelling, systems analysis, data mining and Big Data.
+- **Web and application development:** frontend, backend, web and mobile architecture, usability and interface design.
+- **Systems and infrastructure:** computer architecture, operating systems, network administration and cloud computing.
+- **Cybersecurity:** information security and privacy, network and system security, and security management.
+- **Digital media:** multimedia production, digital communication and web design.
 
 ---
 
