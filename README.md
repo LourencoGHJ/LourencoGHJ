@@ -6,9 +6,6 @@ I'm still learning and expanding my experience, so I see these technologies as p
 
 Outside of tech, I'm focused on my studies, personal development and learning new things. I'm always open to connecting with people who share similar interests, exchanging ideas or simply having a good conversation.
 
-## Areas & technologies
-
-**Programming languages**
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,ruby,js,bash,powershell&perline=6" alt="Python, Java, Ruby, JavaScript, Bash and PowerShell">
