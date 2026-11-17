@@ -1,82 +1,71 @@
-<!-- Professional profile README | github.com/LourencoGHJ -->
+<!-- github.com/LourencoGHJ | Profile README -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1220,50:10243a,100:0b1220&height=170&section=header&text=GUILHERME%20LOUREN%C3%87O&fontSize=34&fontColor=e6f1ff&fontAlignY=42&desc=CYBERSECURITY%20%2F%20LINUX%20%2F%20DEVSECOPS&descSize=14&descAlignY=67&descColor=38bdf8" alt="Guilherme Lourenço — Cybersecurity, Linux and DevSecOps">
+# Guilherme Lourenço
+
+**Cybersecurity · Linux · DevSecOps**
+
+*Exploring how systems work. Learning how to secure them.*
 
 <br>
 
-<img src="https://img.shields.io/badge/CYBERSECURITY-0b1220?style=for-the-badge&logo=protonvpn&logoColor=38bdf8" alt="Cybersecurity">
-<img src="https://img.shields.io/badge/LINUX-0b1220?style=for-the-badge&logo=linux&logoColor=white" alt="Linux">
-<img src="https://img.shields.io/badge/DEVSECOPS-0b1220?style=for-the-badge&logo=githubactions&logoColor=38bdf8" alt="DevSecOps">
+<img src="https://skillicons.dev/icons?i=linux,windows,python,bash,powershell,docker,git,github,githubactions&perline=9" alt="Linux, Windows, Python, Bash, PowerShell, Docker, Git, GitHub and GitHub Actions">
 
 </div>
 
 ---
 
-## About me
+## Profile
 
-I'm focused on **cybersecurity, Linux systems and secure development**. I enjoy understanding how operating systems and networks behave, investigating security configurations, and building practical technical knowledge through experimentation.
+I am a student building my knowledge and practical experience in **cybersecurity and systems engineering**, with a particular interest in Linux, operating systems and network security.
 
-My approach is grounded in curiosity, methodical analysis and continuous learning. I value tools and workflows that are transparent, testable and safe.
+I enjoy working close to the system: understanding configurations, investigating behaviour, automating repetitive tasks and validating results. I value clear documentation, controlled testing and a security-first mindset.
 
-## Focus areas
+## Areas of interest
 
-<div align="center">
+| Domain | Topics |
+| --- | --- |
+| **System security** | Linux security, Windows security, hardening, permissions |
+| **Network security** | Network fundamentals, interfaces, DNS, firewalls |
+| **Security engineering** | Security checks, evidence-based analysis, defensive tooling |
+| **DevSecOps** | Python automation, Bash, PowerShell, testing, CI/CD |
 
-| <img src="https://img.icons8.com/fluency/48/security-checked.png" width="30" alt="Security"> | **Security engineering** | System security · Hardening · Security controls |
-|:--:|:--|:--|
-| <img src="https://img.icons8.com/fluency/48/linux.png" width="30" alt="Linux"> | **Linux & operating systems** | Linux internals · Windows · Permissions · Firewalls |
-| <img src="https://img.icons8.com/fluency/48/network.png" width="30" alt="Networking"> | **Network security** | Network fundamentals · Interfaces · DNS · Traffic concepts |
-| <img src="https://img.icons8.com/fluency/48/code.png" width="30" alt="Automation"> | **Automation & DevSecOps** | Python · Scripting · Testing · CI/CD |
-
-</div>
-
-## Technology stack
+## Tools & technologies
 
 <div align="center">
 
-**Languages & scripting**
+**Programming & scripting**
 
-<img src="https://skillicons.dev/icons?i=python,bash,powershell&theme=dark" alt="Python, Bash and PowerShell">
-
-<br><br>
-
-**Operating systems & platforms**
-
-<img src="https://skillicons.dev/icons?i=linux,windows,docker&theme=dark" alt="Linux, Windows and Docker">
-
-<br><br>
-
-**Development & delivery**
-
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode&theme=dark" alt="Git, GitHub, GitHub Actions and Visual Studio Code">
-
-</div>
-
-## How I approach security
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/01-UNDERSTAND-10243a?style=for-the-badge" alt="Understand">
-<img src="https://img.shields.io/badge/02-INSPECT-10243a?style=for-the-badge" alt="Inspect">
-<img src="https://img.shields.io/badge/03-VALIDATE-10243a?style=for-the-badge" alt="Validate">
-<img src="https://img.shields.io/badge/04-IMPROVE-10243a?style=for-the-badge" alt="Improve">
-
-</div>
-
-I aim to work with evidence rather than assumptions: understand the environment, inspect relevant configurations, validate findings and communicate results clearly. Ethical practice and controlled testing matter.
-
-## GitHub overview
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=LourencoGHJ&show_icons=true&hide_title=true&hide_border=true&theme=transparent&include_all_commits=true&rank_icon=github" alt="GitHub statistics">
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LourencoGHJ&layout=compact&hide_border=true&theme=transparent&langs_count=6" alt="Most used languages">
+<img src="https://skillicons.dev/icons?i=python,bash,powershell&theme=light" alt="Python, Bash and PowerShell">
 
 <br>
 
-<img width="96%" src="https://github-readme-streak-stats.herokuapp.com?user=LourencoGHJ&hide_border=true&theme=transparent" alt="GitHub contribution streak">
+**Systems & infrastructure**
+
+<img src="https://skillicons.dev/icons?i=linux,windows,docker&theme=light" alt="Linux, Windows and Docker">
+
+<br>
+
+**Engineering workflow**
+
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode&theme=light" alt="Git, GitHub, GitHub Actions and VS Code">
+
+</div>
+
+## Working principles
+
+- **Understand before changing** — inspect the environment before taking action.
+- **Evidence over assumptions** — validate observations and document limitations.
+- **Automate carefully** — prefer repeatable, testable workflows.
+- **Build responsibly** — ethical practice, controlled testing and read-only collection where appropriate.
+
+## GitHub
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=LourencoGHJ&show_icons=true&hide_title=true&hide_border=true&theme=default&include_all_commits=true&rank_icon=github" alt="GitHub account statistics">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LourencoGHJ&layout=compact&hide_border=true&theme=default&langs_count=6" alt="Most used languages">
 
 </div>
 
@@ -84,8 +73,10 @@ I aim to work with evidence rather than assumptions: understand the environment,
 
 <div align="center">
 
-### Continuous learning. Practical security. Responsible engineering.
+**Currently learning. Constantly improving.**
 
-<img src="https://img.shields.io/badge/OPEN_TO-LEARNING%20%26%20COLLABORATION-10243a?style=flat-square&logo=github&logoColor=38bdf8" alt="Open to learning and collaboration">
+<a href="https://github.com/LourencoGHJ">
+  <img src="https://img.shields.io/badge/GitHub-LourencoGHJ-24292f?style=flat&logo=github&logoColor=white" alt="GitHub profile">
+</a>
 
 </div>
