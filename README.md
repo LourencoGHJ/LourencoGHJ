@@ -4,9 +4,6 @@ My studies cover a broad range of computing topics: programming, algorithms, obj
 
 I'm particularly interested in **cybersecurity, Linux, networking and DevSecOps**, while continuing to explore frontend and backend development. I learn by experimenting, building, troubleshooting and reading documentation. I'm still developing my skills and discovering where I want to specialise.
 
-## Technologies & areas
-
-The icons below represent technologies and technical areas connected to my coursework, practical exercises and independent learning. They are not a claim of equal proficiency in every tool.
 
 **Programming languages & scripting**
 
