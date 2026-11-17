@@ -35,7 +35,10 @@ The icons below represent technologies and technical areas connected to my cours
 **Mobile development**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,android,androidstudio&perline=4" alt="Flutter, Dart, Android and Android Studio">
+  <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter">
+  <img src="https://skillicons.dev/icons?i=dart" alt="Dart">
+  <img src="https://skillicons.dev/icons?i=android" alt="Android">
+  <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio">
 </p>
 
 **Operating systems, infrastructure & DevSecOps**
