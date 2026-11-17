@@ -15,7 +15,7 @@ Feel free to connect or reach out — I'm always glad to meet people working in 
 ---
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/guilherme-lourenco/" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/guilherme-louren%C3%A7o-b92a98338/" title="LinkedIn">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="Connect on LinkedIn">
   </a>
   <a href="https://github.com/LourencoGHJ" title="GitHub">
