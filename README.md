@@ -52,6 +52,20 @@ The icons below represent technologies and technical areas connected to my cours
   <img src="https://img.shields.io/badge/Systems-Architecture%20%7C%20Operating%20Systems-475569?style=flat-square" alt="Computer architecture and operating systems">
 </p>
 
+**Cybersecurity tools**
+
+<p>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" alt="Kali Linux">
+  <img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square" alt="Nmap">
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark">
+  <img src="https://img.shields.io/badge/nftables-334155?style=flat-square" alt="nftables">
+  <img src="https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white" alt="OWASP">
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white" alt="Metasploit">
+  <img src="https://img.shields.io/badge/Hashcat-7B2D8E?style=flat-square" alt="Hashcat">
+</p>
+
+Tools I've experimented with across **network scanning, traffic analysis, firewall management, web security, penetration testing and password auditing**.
+
 **Digital media & design**
 
 <p>
