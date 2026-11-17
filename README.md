@@ -1,45 +1,67 @@
-Hey, I'm Guilherme! I'm from Portugal and currently studying at **Universidade da Maia**. I'm interested in technology, software development and cybersecurity — especially understanding how applications, operating systems and networks work together.
+Hey, I'm Guilherme! I'm from Portugal and currently studying at **Universidade da Maia**. I'm interested in technology, software development and cybersecurity — especially understanding how applications, databases, operating systems and networks work together.
 
-My studies have given me the opportunity to explore several areas of computing, including **programming, databases, algorithms, web development, operating systems, computer networks, information systems, cloud and mobile computing, multimedia and information security**. I enjoy moving between these areas, learning how they connect and finding practical ways to apply what I learn.
+My studies cover a broad range of computing topics: programming, algorithms, object-oriented development, databases, web and mobile development, systems administration, computer networks, cloud computing, information systems, multimedia and information security. I enjoy seeing how these areas connect rather than treating them as completely separate subjects.
 
-I'm particularly interested in **cybersecurity, Linux, networking and DevSecOps**, while continuing to develop my skills in both frontend and backend development. I learn by experimenting, building, troubleshooting and reading documentation. I'm still discovering where I want to specialise, and I'm happy to keep exploring.
+I'm particularly interested in **cybersecurity, Linux, networking and DevSecOps**, while continuing to explore frontend and backend development. I learn by experimenting, building, troubleshooting and reading documentation. I'm still developing my skills and discovering where I want to specialise.
 
-Outside technology, I'm focused on my studies, personal development and learning new things. I'm always open to connecting with people who share similar interests, exchanging ideas or having a good conversation.
+## Technologies & areas
 
-## Technologies & tools
+The icons below represent technologies and technical areas connected to my coursework, practical exercises and independent learning. They are not a claim of equal proficiency in every tool.
 
-**Programming languages and scripting**
+**Programming languages & scripting**
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,ruby,js,bash,powershell&perline=6" alt="Python, Java, Ruby, JavaScript, Bash and PowerShell">
 </p>
 
-**Web development — frontend**
+**Frontend & web development**
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react&perline=4" alt="HTML, CSS, JavaScript and React">
 </p>
 
-**Backend and application development**
+**Backend & application development**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,ruby&perline=3" alt="Python, Java and Ruby">
+  <img src="https://skillicons.dev/icons?i=python,java,ruby,nodejs,express&perline=5" alt="Python, Java, Ruby, Node.js and Express">
 </p>
 
-**Systems, networking and DevSecOps**
+**Databases & data**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite&perline=4" alt="MySQL, PostgreSQL, MongoDB and SQLite">
+</p>
+
+**Operating systems, infrastructure & DevSecOps**
 
 <p>
   <img src="https://skillicons.dev/icons?i=linux,windows,docker,git,github,githubactions&perline=6" alt="Linux, Windows, Docker, Git, GitHub and GitHub Actions">
 </p>
 
-## What I'm exploring
+**Networks, security & systems**
 
-- **Software engineering:** algorithms, data structures, object-oriented programming and agile development.
-- **Data and information systems:** databases, data modelling, systems analysis, data mining and Big Data.
-- **Web and application development:** frontend, backend, web and mobile architecture, usability and interface design.
-- **Systems and infrastructure:** computer architecture, operating systems, network administration and cloud computing.
+<p>
+  <img src="https://img.shields.io/badge/Networking-TCP%2FIP%20%7C%20DNS%20%7C%20Routing-2563eb?style=flat-square" alt="Networking: TCP/IP, DNS and routing">
+  <img src="https://img.shields.io/badge/Security-System%20%7C%20Network%20%7C%20Privacy-334155?style=flat-square" alt="System, network and information security">
+  <img src="https://img.shields.io/badge/Systems-Architecture%20%7C%20Operating%20Systems-475569?style=flat-square" alt="Computer architecture and operating systems">
+</p>
+
+**Mobile, cloud & digital media**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=android,figma,ps&perline=3" alt="Android, Figma and Photoshop">
+</p>
+
+## What I study and explore
+
+- **Software engineering:** algorithms, data structures, object-oriented programming, agile methods and software engineering.
+- **Databases & data:** database design, data modelling, information systems, data mining and Big Data.
+- **Web & mobile:** frontend and backend programming, web architecture, mobile computing, usability and interface design.
+- **Infrastructure & networks:** computer architecture, operating systems, network communications, administration and cloud computing.
 - **Cybersecurity:** information security and privacy, network and system security, and security management.
-- **Digital media:** multimedia production, digital communication and web design.
+- **Digital media:** multimedia systems, content production, digital communication and web design.
+
+Outside of technology, I'm focused on my studies, personal development and learning new things. I'm always open to connecting with people who share similar interests, exchanging ideas or having a good conversation.
 
 ---
 
