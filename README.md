@@ -11,7 +11,7 @@ The icons below represent technologies and technical areas connected to my cours
 **Programming languages & scripting**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,ruby,js,bash,powershell&perline=6" alt="Python, Java, Ruby, JavaScript, Bash and PowerShell">
+  <img src="https://skillicons.dev/icons?i=python,java,ruby,js,dart,bash,powershell&perline=7" alt="Python, Java, Ruby, JavaScript, Dart, Bash and PowerShell">
 </p>
 
 **Frontend & web development**
@@ -32,6 +32,12 @@ The icons below represent technologies and technical areas connected to my cours
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite&perline=4" alt="MySQL, PostgreSQL, MongoDB and SQLite">
 </p>
 
+**Mobile development**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,android,androidstudio&perline=4" alt="Flutter, Dart, Android and Android Studio">
+</p>
+
 **Operating systems, infrastructure & DevSecOps**
 
 <p>
@@ -46,10 +52,10 @@ The icons below represent technologies and technical areas connected to my cours
   <img src="https://img.shields.io/badge/Systems-Architecture%20%7C%20Operating%20Systems-475569?style=flat-square" alt="Computer architecture and operating systems">
 </p>
 
-**Mobile, cloud & digital media**
+**Digital media & design**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=android,figma,ps&perline=3" alt="Android, Figma and Photoshop">
+  <img src="https://skillicons.dev/icons?i=figma,ps&perline=2" alt="Figma and Photoshop">
 </p>
 
 ## What I study and explore
