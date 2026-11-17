@@ -1,24 +1,22 @@
-Hey, I'm Guilherme! I'm based in Portugal and currently in the **second year of my studies at Universidade da Maia**, building my foundations in IT and working towards a career in **cybersecurity**. I'm particularly interested in Linux systems, network security and the practical side of securing infrastructure.
+Hey, I'm Guilherme! I'm from Portugal and currently studying at **Universidade da Maia**. I'm interested in **cybersecurity, Linux and technology**, especially understanding how systems work and how they can be made more secure.
 
-I got into this field because I wanted to understand what happens behind the scenes: how operating systems work, how devices communicate, how security controls are configured, and how small weaknesses can affect a whole environment. That curiosity has gradually turned into hands-on learning with **Linux, Windows, Python, Bash, PowerShell, networking and defensive security tools**.
+I spend a lot of my time learning by doing — exploring Linux and Windows, working with Python, Bash and PowerShell, and getting hands-on with networking, system security and automation. I'm still learning and figuring out which areas I want to specialise in, but I enjoy solving problems, experimenting and understanding the details behind the tools I use.
 
-Most of my learning happens by experimenting, reading documentation, troubleshooting and building things myself. I've been developing my skills around system inspection, firewall analysis, automation, testing and Git-based workflows. I also enjoy working across Linux and Windows, and exploring how security practices fit into software development and DevSecOps.
+Outside of tech, I'm focused on my studies, personal development and learning new things. I'm always open to connecting with people who share similar interests, exchanging ideas or simply having a good conversation.
 
-I'm still early in my professional journey, so I won't pretend to know everything. There is a lot I have yet to learn, and that's part of what motivates me. At the moment, I'm focused on becoming stronger in **Linux administration, network security, Python automation and security fundamentals**, while improving how I document, test and explain my work.
-
-I'm interested in **internships, junior opportunities and opportunities to learn alongside experienced people** in IT, cybersecurity or DevSecOps. I value teams where curiosity is welcome, questions are encouraged and good engineering matters more than pretending to have all the answers.
-
-Outside technology, I'm a university student who enjoys learning independently and taking on challenges that push me to improve. My aim is to build a career through consistency, practical experience and a genuine understanding of the systems I work with.
-
-Feel free to connect or reach out — I'm always glad to meet people working in or learning about **Cybersecurity, Linux, Networking and DevSecOps**.
+**A few things about me**
+- Based in Portugal
+- Student at Universidade da Maia
+- Interested in Cybersecurity, Linux, Networking and DevSecOps
+- Currently learning and improving my practical skills
 
 ---
 
 <p align="left">
   <a href="https://www.linkedin.com/in/guilherme-louren%C3%A7o-b92a98338/" title="LinkedIn">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="Connect on LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://github.com/LourencoGHJ" title="GitHub">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github&logoColor=white" alt="GitHub profile">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
