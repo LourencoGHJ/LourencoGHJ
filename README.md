@@ -67,7 +67,6 @@ The icons below represent technologies and technical areas connected to my cours
   <img src="https://img.shields.io/badge/Hashcat-7B2D8E?style=flat-square" alt="Hashcat">
 </p>
 
-Tools I've experimented with across **network scanning, traffic analysis, firewall management, web security, penetration testing and password auditing**.
 
 **Digital media & design**
 
@@ -75,16 +74,7 @@ Tools I've experimented with across **network scanning, traffic analysis, firewa
   <img src="https://skillicons.dev/icons?i=figma,ps&perline=2" alt="Figma and Photoshop">
 </p>
 
-## What I study and explore
 
-- **Software engineering:** algorithms, data structures, object-oriented programming, agile methods and software engineering.
-- **Databases & data:** database design, data modelling, information systems, data mining and Big Data.
-- **Web & mobile:** frontend and backend programming, web architecture, mobile computing, usability and interface design.
-- **Infrastructure & networks:** computer architecture, operating systems, network communications, administration and cloud computing.
-- **Cybersecurity:** information security and privacy, network and system security, and security management.
-- **Digital media:** multimedia systems, content production, digital communication and web design.
-
-Outside of technology, I'm focused on my studies, personal development and learning new things. I'm always open to connecting with people who share similar interests, exchanging ideas or having a good conversation.
 
 ---
 
