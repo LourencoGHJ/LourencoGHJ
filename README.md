@@ -1,14 +1,36 @@
-Hey, I'm Guilherme! I'm from Portugal and currently studying at **Universidade da Maia**. I'm interested in **cybersecurity, Linux and technology**, especially understanding how systems work and how they can be made more secure.
+Hey, I'm Guilherme! I'm from Portugal and currently studying at **Universidade da Maia**. I'm interested in **cybersecurity, software development and technology**, especially understanding how systems work and how different parts of an application fit together.
 
-I spend a lot of my time learning by doing — exploring Linux and Windows, working with Python, Bash and PowerShell, and getting hands-on with networking, system security and automation. I'm still learning and figuring out which areas I want to specialise in, but I enjoy solving problems, experimenting and understanding the details behind the tools I use.
+I enjoy exploring different areas of development, from **frontend and backend** to **Linux, networking and cybersecurity**. I've worked with languages and technologies such as Python, Java, Ruby, JavaScript, HTML, CSS, React, Bash and PowerShell. I'm also interested in automation, system security, DevSecOps and learning how to build software that is reliable and secure.
+
+I'm still learning and expanding my experience, so I see these technologies as part of an ongoing journey rather than a list of things I've mastered. I like experimenting, solving problems and discovering how things work.
 
 Outside of tech, I'm focused on my studies, personal development and learning new things. I'm always open to connecting with people who share similar interests, exchanging ideas or simply having a good conversation.
 
-**A few things about me**
-- Based in Portugal
-- Student at Universidade da Maia
-- Interested in Cybersecurity, Linux, Networking and DevSecOps
-- Currently learning and improving my practical skills
+## Areas & technologies
+
+**Programming languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,ruby,js,bash,powershell&perline=6" alt="Python, Java, Ruby, JavaScript, Bash and PowerShell">
+</p>
+
+**Frontend**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react&perline=4" alt="HTML, CSS, JavaScript and React">
+</p>
+
+**Backend & development**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,ruby,nodejs&perline=4" alt="Python, Java, Ruby and Node.js">
+</p>
+
+**Cybersecurity, systems & DevSecOps**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,windows,docker,git,github,githubactions,bash,powershell&perline=8" alt="Linux, Windows, Docker, Git, GitHub, GitHub Actions, Bash and PowerShell">
+</p>
 
 ---
 
